@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifysarse",
+        "uuid": 6158170,
+        "checksum": "jifb0k"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
